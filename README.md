@@ -135,11 +135,6 @@ I'm Cody — a solo builder working across websites, software, apps, and the too
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=CodyBrohman&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=8B5CF6&text_color=808080&bg_color=00000000"
-  alt="Cody's GitHub stats"
-  height="165"
-/>
-<img
   src="https://github-readme-streak-stats.herokuapp.com/?user=CodyBrohman&hide_border=true&background=00000000&stroke=808080&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=6366F1&currStreakNum=808080&sideNums=808080&dates=808080"
   alt="GitHub streak"
   height="165"
