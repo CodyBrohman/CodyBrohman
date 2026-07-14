@@ -147,14 +147,6 @@ I'm Cody — a solo builder working across websites, software, apps, and the too
 
 <br/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodyBrohman&layout=compact&hide_border=true&langs_count=8&title_color=6366F1&text_color=808080&bg_color=00000000"
-  alt="Top languages"
-  height="165"
-/>
-
-<br/><br/>
-
 <!-- Contribution activity graph -->
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=CodyBrohman&bg_color=00000000&color=6366F1&line=8B5CF6&point=6366F1&area=true&area_color=8B5CF6&hide_border=true"
@@ -163,13 +155,6 @@ I'm Cody — a solo builder working across websites, software, apps, and the too
 />
 
 <br/>
-
-<!-- Trophies -->
-<img
-  src="https://github-profile-trophy.vercel.app/?username=CodyBrohman&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7"
-  alt="GitHub trophies"
-  width="100%"
-/>
 
 </div>
 
