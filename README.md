@@ -76,18 +76,6 @@ I'm Cody — a solo builder working across websites, software, apps, and the too
 ## 📌 Featured Projects
 
 <!--
-  EDIT: These are placeholders. Swap in real repos as you go.
-  Fastest upgrade: replace each card below with a live "pin" that
-  auto-pulls the repo's title, description, stars & language:
-
-  [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=CodyBrohman&repo=YOUR_REPO&title_color=6366F1&icon_color=8B5CF6&text_color=808080&bg_color=00000000&hide_border=true)](https://github.com/CodyBrohman/YOUR_REPO)
-
-  For now, a clean hand-built grid so nothing renders broken:
--->
-
-## 📌 Featured Projects
-
-<!--
   Swap in real repos as you go. Fastest upgrade: replace a card with a
   live "pin" that auto-pulls title, description, stars & language:
 
