@@ -85,16 +85,26 @@ I'm Cody — a solo builder working across websites, software, apps, and the too
   For now, a clean hand-built grid so nothing renders broken:
 -->
 
+## 📌 Featured Projects
+
+<!--
+  Swap in real repos as you go. Fastest upgrade: replace a card with a
+  live "pin" that auto-pulls title, description, stars & language:
+
+  [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=CodyBrohman&repo=YOUR_REPO&title_color=6366F1&icon_color=8B5CF6&text_color=808080&bg_color=00000000&hide_border=true)](https://github.com/CodyBrohman/YOUR_REPO)
+-->
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Project One</h3>
-      <p>Short one-liner on what it does and why it's interesting. Replace with a real repo.</p>
+      <h3>🔗 Link Shortener</h3>
+      <p>Full-stack URL shortener — paste a long link, get a short code, and visiting it 307-redirects to the original. REST API, SQLite persistence, collision-safe code generation, and per-link click tracking.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
       </p>
-      <a href="https://github.com/CodyBrohman">Repo →</a>
+      <a href="https://github.com/CodyBrohman/link-shortener">Repo →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎨 Project Two</h3>
